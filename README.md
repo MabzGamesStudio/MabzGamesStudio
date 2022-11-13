@@ -1,6 +1,6 @@
 ### Hey, what's up 👋
 
-You are looking at Mabz's GitHub page
+# You are looking at Mabz's GitHub page
 ![Background](Background.png)
 
 ## Mabz is...
