@@ -1,6 +1,6 @@
 ### Hey, what's up 👋
 
-[Background](Background.png)
+![Background](Background.png)
 
 ## Mabz is...
 a computer science and mathematics student at UMass, Amherst who codes in the Unity game engine in his free time. I first started programming on the [Scratch](https://scratch.mit.edu/users/MabzTheGameMaker/) website where I learned how to make games and in doing so learned some introductory programming concepts. I continued learning about ideas in computer science through self teaching as well as in computer science classes in high school including AP computer science. I continue my computer science education at UMass, Amherst where I major in computer science and mathematics. Outside of school I occasionally work on projects in Unity using C# for fun as well as to improve my coding abilities.
